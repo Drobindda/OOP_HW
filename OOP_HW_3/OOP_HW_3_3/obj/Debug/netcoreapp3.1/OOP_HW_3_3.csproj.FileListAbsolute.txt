@@ -1,0 +1,14 @@
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.exe
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.deps.json
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.runtimeconfig.json
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.runtimeconfig.dev.json
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.dll
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\bin\Debug\netcoreapp3.1\OOP_HW_3_3.pdb
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.csproj.AssemblyReference.cache
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.AssemblyInfoInputs.cache
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.AssemblyInfo.cs
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.csproj.CoreCompileInputs.cache
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.dll
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.pdb
+E:\My projects\OOP_HW\OOP_HW_3\OOP_HW_3_3\OOP_HW_3_3\obj\Debug\netcoreapp3.1\OOP_HW_3_3.genruntimeconfig.cache
