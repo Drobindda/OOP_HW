@@ -1,0 +1,16 @@
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.csproj.AssemblyReference.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.Form1.resources
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.csproj.GenerateResource.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.AssemblyInfoInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.AssemblyInfo.cs
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.csproj.CoreCompileInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.exe
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.deps.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.runtimeconfig.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.runtimeconfig.dev.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.dll
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\bin\Debug\netcoreapp3.1\OOP_HW_4_2.pdb
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.dll
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.pdb
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_2\obj\Debug\netcoreapp3.1\OOP_HW_4_2.genruntimeconfig.cache

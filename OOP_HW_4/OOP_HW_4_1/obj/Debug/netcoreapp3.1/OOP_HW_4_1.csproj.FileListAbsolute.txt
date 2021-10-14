@@ -1,0 +1,16 @@
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.exe
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.deps.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.runtimeconfig.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.runtimeconfig.dev.json
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.dll
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\bin\Debug\netcoreapp3.1\OOP_HW_4_1.pdb
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.csproj.AssemblyReference.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.csproj.GenerateResource.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.AssemblyInfoInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.AssemblyInfo.cs
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.csproj.CoreCompileInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.dll
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.pdb
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.genruntimeconfig.cache
+E:\My projects\OOP_HW\OOP_HW_4\OOP_HW_4_1\obj\Debug\netcoreapp3.1\OOP_HW_4_1.TriangleForm.resources

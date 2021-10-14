@@ -1,0 +1,14 @@
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.exe
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.deps.json
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.runtimeconfig.json
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.runtimeconfig.dev.json
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.dll
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\bin\Debug\netcoreapp3.1\HW_Tests.pdb
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.csproj.AssemblyReference.cache
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.AssemblyInfoInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.AssemblyInfo.cs
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.csproj.CoreCompileInputs.cache
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.dll
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.pdb
+E:\My projects\OOP_HW\OOP_HW_4\HW_Tests\obj\Debug\netcoreapp3.1\HW_Tests.genruntimeconfig.cache
